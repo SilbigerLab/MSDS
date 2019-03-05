@@ -18,4 +18,8 @@
 [Potassium Chloride, 3 mol/L](SDS/KCl_Electrolyte_Storage_Solution.pdf)
 
 
+[Sodium bicarbonate (Baking Soda)](SDS/Sodium_Bicarbonate.pdf)
+
+
 [Sodium Hydroxide, 50% w/w](SDS/Sodium_Hydroxide_50w-w.pdf)
+
